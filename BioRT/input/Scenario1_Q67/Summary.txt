@@ -1,0 +1,32 @@
+SRRW_WRR_Revised	SubCatchment_1
+ Water Balance [mm/year]:
+ Sum Qsim	669.666528399172
+ Sum Qobs	786.10863885089
+ Sum Precipitation	1362.93296853625
+ Sum AET	547.519498485685
+ Sum PET	853.986947749097
+ Contribution of Q0	0.0181925822658675
+ Contribution of Q1	0.307536708097631
+ Contribution of Q2	0.674270709636501
+ Goodness of fit:
+ Coefficient of determination	0.835214795088194
+ Model efficiency	0.816222272552176
+ Kling-Gupta efficiency	0.826150075651603
+ Kling-Gupta efficiency ('non-parametric')	0.653797779460302
+ Efficiency for log(Q)	-0.0745196794934471
+ Flow weighted efficiency	0.909602175696631
+ Mean difference	116.442110451718
+ Volume Error	0.85187529471508
+ MARE Measure	0.386013469869789
+ Lindstrom Measure	0.801409802023684
+ Spearman Rank	0.689062380621692
+ QObsSample	-9999
+ PythonScript	-9999
+ Snow cover RMSE	-9999
+ Glacier Absolute Mean Relative Error	-9999
+ Glacier Mean Absolute Error	-9999
+ Groundwater Spearman Rank	-9999
+ Reff Snow Water Equivalent	-9999
+ SWE Mean Absolute Error	-9999
+ Flowtime within boundaries	-9999
+ Flow within boundaries	-9999
